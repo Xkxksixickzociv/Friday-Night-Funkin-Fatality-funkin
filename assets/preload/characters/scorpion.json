@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sco idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				314,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sco sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-72
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sco sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				-187
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sco sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				104
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sco sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				217,
+				40
+			],
+			"anim": "revenge",
+			"fps": 24,
+			"name": "revenge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				217,
+				60
+			],
+			"anim": "over",
+			"fps": 24,
+			"name": "spear",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				297,
+				277
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "scream",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scorpion_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "scorpion",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		21
+	],
+	"camera_position": [
+		-180,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

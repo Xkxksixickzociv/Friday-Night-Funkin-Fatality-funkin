@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				228,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "over",
+			"indices": [],
+			"name": "spear"
+		},
+		{
+			"offsets": [
+				223,
+				167
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sco idle dance"
+		},
+		{
+			"offsets": [
+				379,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Sco sing left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				139,
+				47
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				88
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sco sing right",
+			"indices": [
+				1,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				233,
+				-27
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sco sing down",
+			"indices": [
+				1,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				179,
+				254
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sco sing up",
+			"indices": [
+				1,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Scorpion2",
+	"position": [
+		-100,
+		0
+	],
+	"healthicon": "scorpion",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		21
+	],
+	"camera_position": [
+		-180,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

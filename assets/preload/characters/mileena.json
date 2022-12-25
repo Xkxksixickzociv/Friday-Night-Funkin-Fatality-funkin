@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				231,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Mel idle dance"
+		},
+		{
+			"offsets": [
+				323,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mel sing left"
+		},
+		{
+			"offsets": [
+				172,
+				-82
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mel sing right"
+		},
+		{
+			"offsets": [
+				390,
+				-316
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mel sing down"
+		},
+		{
+			"offsets": [
+				129,
+				104
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mel sing up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mileena_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mileena",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sub idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				293,
+				-70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sub sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				146,
+				-207
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sub sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-155
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sub sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				264
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sub sing up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sub_zero_assets",
+	"position": [
+		-170,
+		70
+	],
+	"healthicon": "subzero",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		204,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
