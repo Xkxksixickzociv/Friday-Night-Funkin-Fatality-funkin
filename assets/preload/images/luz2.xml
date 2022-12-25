@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="luz2.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LUZ0000" x="0" y="0" width="315" height="333"/>
+	<SubTexture name="LUZ0001" x="315" y="0" width="315" height="333"/>
+	<SubTexture name="LUZ0002" x="630" y="0" width="315" height="333"/>
+	<SubTexture name="LUZ0003" x="945" y="0" width="315" height="333"/>
+	<SubTexture name="LUZ0004" x="1260" y="0" width="315" height="333"/>
+	<SubTexture name="LUZ0005" x="1575" y="0" width="315" height="333"/>
+	<SubTexture name="LUZ0006" x="0" y="333" width="315" height="333"/>
+	<SubTexture name="LUZ0007" x="315" y="333" width="315" height="333"/>
+	<SubTexture name="LUZ0008" x="630" y="333" width="315" height="333"/>
+	<SubTexture name="LUZ0009" x="945" y="333" width="315" height="333"/>
+	<SubTexture name="LUZ0010" x="1260" y="333" width="315" height="333"/>
+	<SubTexture name="LUZ0011" x="1575" y="333" width="315" height="333"/>
+	<SubTexture name="LUZ0012" x="0" y="666" width="315" height="333"/>
+	<SubTexture name="LUZ0013" x="315" y="666" width="315" height="333"/>
+	<SubTexture name="LUZ0014" x="0" y="666" width="315" height="333"/>
+	<SubTexture name="LUZ0015" x="1575" y="333" width="315" height="333"/>
+	<SubTexture name="LUZ0016" x="1260" y="333" width="315" height="333"/>
+	<SubTexture name="LUZ0017" x="945" y="333" width="315" height="333"/>
+	<SubTexture name="LUZ0018" x="630" y="333" width="315" height="333"/>
+	<SubTexture name="LUZ0019" x="315" y="333" width="315" height="333"/>
+	<SubTexture name="LUZ0020" x="0" y="333" width="315" height="333"/>
+	<SubTexture name="LUZ0021" x="1575" y="0" width="315" height="333"/>
+	<SubTexture name="LUZ0022" x="1260" y="0" width="315" height="333"/>
+	<SubTexture name="LUZ0023" x="945" y="0" width="315" height="333"/>
+	<SubTexture name="LUZ0024" x="630" y="0" width="315" height="333"/>
+	<SubTexture name="LUZ0025" x="630" y="0" width="315" height="333"/>
+	<SubTexture name="LUZ0026" x="0" y="0" width="315" height="333"/>
+	<SubTexture name="LUZ0027" x="0" y="0" width="315" height="333"/>
+</TextureAtlas>
