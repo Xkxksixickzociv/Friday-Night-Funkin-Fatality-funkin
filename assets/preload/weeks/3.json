@@ -1,0 +1,32 @@
+{
+	"storyName": "come closer, she doesnt bite",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "forest",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Lady Kisses",
+			"mileena",
+			[
+				255,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "1",
+	"hiddenUntilUnlocked": false
+}

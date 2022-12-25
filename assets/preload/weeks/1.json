@@ -1,0 +1,41 @@
+{
+	"storyName": "Get over here!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "hell",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"hells-revenge",
+			"scorpion",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"toasty",
+			"scorpion",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "1"
+}

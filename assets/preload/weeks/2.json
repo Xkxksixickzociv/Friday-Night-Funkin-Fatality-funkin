@@ -1,0 +1,32 @@
+{
+	"storyName": "no one beats sub-zero",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "pit",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"tundra",
+			"subzero",
+			[
+				0,
+				20,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "1",
+	"hiddenUntilUnlocked": false
+}
