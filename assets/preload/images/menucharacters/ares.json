@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "ne1tor black line",
+	"position": [
+		27,
+		80
+	],
+	"scale": 0.45,
+	"image": "aresbk"
+}

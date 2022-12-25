@@ -1,0 +1,10 @@
+{
+	"idle_anim": "aresamarillo",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		50,
+		38
+	],
+	"scale": 0.35,
+	"image": "amarillo"
+}

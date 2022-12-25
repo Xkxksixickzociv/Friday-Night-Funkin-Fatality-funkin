@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "ne1torbl",
+	"position": [
+		120,
+		70
+	],
+	"scale": 0.4,
+	"image": "aresbk"
+}
