@@ -1,0 +1,179 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "Hell",
+		"player1": "bf",
+		"player2": "scorpion",
+		"player3": null,
+		"events": [
+			[
+				23906.25,
+				[
+					[
+						"zoomcam",
+						"0.9",
+						"1.5"
+					]
+				]
+			],
+			[
+				23953.125,
+				[
+					[
+						"Cinema",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Play Animation",
+						"revenge",
+						"0"
+					]
+				]
+			],
+			[
+				24003.90625,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"1"
+					]
+				]
+			],
+			[
+				26953.125,
+				[
+					[
+						"Cinema",
+						"of",
+						""
+					]
+				]
+			],
+			[
+				27000,
+				[
+					[
+						"zoomcam",
+						"0.65",
+						"1"
+					]
+				]
+			],
+			[
+				51000,
+				[
+					[
+						"zoomcam",
+						"0.85",
+						"3"
+					]
+				]
+			],
+			[
+				55500,
+				[
+					[
+						"zoomcam",
+						"0.65",
+						"1"
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"zoomcam",
+						"0.86",
+						"10"
+					]
+				]
+			],
+			[
+				80156.25,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				80625,
+				[
+					[
+						"Play Animation",
+						"over",
+						"0"
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"zoomcam",
+						"0.65",
+						"1"
+					]
+				]
+			],
+			[
+				81003.90625,
+				[
+					[
+						"Screen Shake",
+						"",
+						"21, 0.001"
+					]
+				]
+			],
+			[
+				104906.25,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"0"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Screen Shake",
+						"1.7, 0.005",
+						"1.7, 0.005"
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"AwardCheck1",
+						"fc",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "hells-revenge"
+	}
+}
